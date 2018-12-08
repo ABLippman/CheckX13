@@ -2,10 +2,11 @@
 //  AppDelegate.m
 //  CheckX13
 //
-//  Created by lip on 12/5/18.
+//  Created by lip on 12/5/18.  Test app for new version of Checkwriter. in objC
 //  Copyright © 2018 Andrew Lippman. All rights reserved.
 //
-//  Defaults 
+//  Defaults works, GIT depository created, communications with controller works, panel does not  12/8
+//
 
 #import "AppDelegate.h"
 #import "Globals.h"
