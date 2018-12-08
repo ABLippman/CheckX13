@@ -7,6 +7,7 @@
 //
 //  Defaults works, GIT depository created, communications with controller works, panel does not  12/8
 //
+//  The GIT repository works
 
 #import "AppDelegate.h"
 #import "Globals.h"
