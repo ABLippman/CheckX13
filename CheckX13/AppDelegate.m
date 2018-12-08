@@ -71,7 +71,6 @@ NSController * myController;
     _printer = [checkDefaultSet objectForKey:@"Printer"];
     self.myString = @"This is the delegate string";
     NSLog(@"When does this happen, %@",myString);
-    _depositPanel = [viewPanel new];
 }
 
 - (void)printMsg {

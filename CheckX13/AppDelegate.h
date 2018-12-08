@@ -7,13 +7,11 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "viewPanel.h"
 
 @interface AppDelegate : NSObject <NSApplicationDelegate> {
     NSPopUpButton *_accountList;
 }
 @property (nonatomic, retain) NSString *myString;
 @property (nonatomic) NSString *printer;
-@property (nonatomic) viewPanel* depositPanel;
 @end
 

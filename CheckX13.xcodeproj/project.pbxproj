@@ -14,8 +14,6 @@
 		366F96B121B8187C003ABF2F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 366F96B021B8187C003ABF2F /* main.m */; };
 		366F96BC21B8187C003ABF2F /* CheckX13Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 366F96BB21B8187C003ABF2F /* CheckX13Tests.m */; };
 		366F96C721B8187C003ABF2F /* CheckX13UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 366F96C621B8187C003ABF2F /* CheckX13UITests.m */; };
-		36B699F921BC13F4007D6928 /* viewPanel.m in Sources */ = {isa = PBXBuildFile; fileRef = 36B699F721BC13F4007D6928 /* viewPanel.m */; };
-		36B699FA21BC13F4007D6928 /* viewPanel.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36B699F821BC13F4007D6928 /* viewPanel.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,9 +52,6 @@
 		366F96C821B8187C003ABF2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36B699F421B84740007D6928 /* Globals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Globals.h; sourceTree = "<group>"; };
 		36B699F521B847D8007D6928 /* Globals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Globals.h; sourceTree = "<group>"; };
-		36B699F621BC13F4007D6928 /* viewPanel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = viewPanel.h; sourceTree = "<group>"; };
-		36B699F721BC13F4007D6928 /* viewPanel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = viewPanel.m; sourceTree = "<group>"; };
-		36B699F821BC13F4007D6928 /* viewPanel.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = viewPanel.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,9 +110,6 @@
 				366F96A821B8187C003ABF2F /* ViewController.m */,
 				366F96AA21B8187C003ABF2F /* Assets.xcassets */,
 				366F96AC21B8187C003ABF2F /* Main.storyboard */,
-				36B699F621BC13F4007D6928 /* viewPanel.h */,
-				36B699F721BC13F4007D6928 /* viewPanel.m */,
-				36B699F821BC13F4007D6928 /* viewPanel.xib */,
 				366F96AF21B8187C003ABF2F /* Info.plist */,
 				366F96B021B8187C003ABF2F /* main.m */,
 				366F96B221B8187C003ABF2F /* CheckX13.entitlements */,
@@ -253,7 +245,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				366F96AB21B8187C003ABF2F /* Assets.xcassets in Resources */,
-				36B699FA21BC13F4007D6928 /* viewPanel.xib in Resources */,
 				366F96AE21B8187C003ABF2F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -280,7 +271,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				366F96A921B8187C003ABF2F /* ViewController.m in Sources */,
-				36B699F921BC13F4007D6928 /* viewPanel.m in Sources */,
 				366F96B121B8187C003ABF2F /* main.m in Sources */,
 				366F96A621B8187C003ABF2F /* AppDelegate.m in Sources */,
 			);
